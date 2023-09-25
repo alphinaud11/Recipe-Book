@@ -8,11 +8,11 @@ An Angular application for managing recipes, developed as a project for Udemy's 
 
 ![Authentication Page](images/Authentication.png)
 
-- **Recipes Page:**
+- **Recipes Page**
 
 ![Recipes Page](images/Recipes.png)
 
-- **Shopping List Page:**
+- **Shopping List Page**
 
 ![Shopping List Page](images/Shopping_List.png)
 
