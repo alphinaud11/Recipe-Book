@@ -6,15 +6,15 @@ An Angular application developed as a project for Udemy's course **"Angular - Th
 
 **Authentication Page**
 
-![Authentication Page](Authentication.png)
+![Authentication Page](images/Authentication.png)
 
 **Recipes Page**
 
-![Recipes Page](Recipes.png)
+![Recipes Page](images/Recipes.png)
 
 **Shopping List Page**
 
-![Shopping List Page](Shopping List.png)
+![Shopping List Page](images/Shopping_List.png)
 
 ## Development Server
 
