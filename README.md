@@ -4,7 +4,7 @@ An Angular application for managing recipes, developed as a project for Udemy's 
 
 ***Work Still in Progress!***.
 
-**~~ Authentication Page ~~**
+~~**Authentication Page**~~
 
 ![Authentication Page](images/Authentication.png)
 
