@@ -1,6 +1,6 @@
 # Recipe Book
 
-An Angular application for managing recipes, developed as a project for Udemy's course **"Angular - The Complete Guide (2023 Edition)"** which is taught by Maximilian Schwarzmüller.
+An Angular application for managing recipes, developed as a project for Udemy's course **"Angular - The Complete Guide"** which is taught by Maximilian Schwarzmüller.
 
 ***Work Still in Progress!***.
 
